@@ -39,9 +39,9 @@ public:
 
     static const Float kEpsilon;
     static const int   kThetaDegree = 15;
-    static const int   kThetaSize   = (1 << kThetaDegree) + 1;    //1025
+    static const int   kThetaSize   = (1 << kThetaDegree) + 1;
     static const int   kPhiDegree   = 7;
-    static const int   kPhiSize     = (1 << kPhiDegree) + 1;      //1025
+    static const int   kPhiSize     = (1 << kPhiDegree) + 1;
 
 
     static const Float kThetaResolution;

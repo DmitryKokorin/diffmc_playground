@@ -44,7 +44,7 @@ public:
     bool isLeaf() const;
 
     bool splitX();
-    bool splitY(); 
+    bool splitY();
 
     GreedRect rect;
 
